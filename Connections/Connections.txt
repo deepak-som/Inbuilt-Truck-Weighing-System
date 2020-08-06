@@ -1,0 +1,42 @@
+--------------------------DisplayUnit----------------------
+rs to 12 |		vss
+en to 11 |		vcc
+d4 to  7 |		re
+d5 to  6 |		A
+d6 to  5 |  		K
+d7 to  4 |		
+
+
+--------------------------MpuUnit------------------
+
+
+
+
+
+
+
+
+
+
+LoadMonitorUnit
+
+LoadCell
+Hx711
+
+
+
+
+IndicationUnit
+Leds
+Buzzers
+
+
+
+ProcessingUnit
+
+Ardiuno Uno
+
+
+IDE
+Arduino IDE
+

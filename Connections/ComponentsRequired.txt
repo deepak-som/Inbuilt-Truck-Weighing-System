@@ -1,0 +1,23 @@
+Major units used in the project:-
+
+
+1.1.1 Load unit
+        1.1 HX711 load cell amplifier
+        1.2 Load cell
+
+1.1.2 IMU(Inertial measurement unit)
+	2.1 MPU6050
+    
+1.1.3 Display unit
+        3.1 16x2 LCD module 
+    
+1.1.4 Indication unit
+        4.1 Buzzers
+        4.2 LEDS
+    
+1.1.5 Processing unit
+        5.1 Arduino uno
+
+
+
+IDE:-   Arduino IDE
